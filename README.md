@@ -79,7 +79,7 @@ and practical
 <b>SQL, Java, HTML</b><br>
 <ul>
 <li>
-DB Journals is a simpe web app for an interactive database of academic articles, journals, authors and editors
+DB Journals is a simple web app for an interactive database of academic articles, journals, authors and editors
 </li>
 <li>
 A link to the implementation is no longer available.
