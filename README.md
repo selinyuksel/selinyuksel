@@ -30,9 +30,6 @@ NPCs (Humans or Zombies) in order to make them fall in love before they can atta
 The game consists of seven levels wherein each level represents a new day wit hnew instructions 
 on how the Player must match their targets.
 </li>
-<li>
-Current state of the project:
-</li>
 </ul>
 
 <h3>MCA's for Game Programming</h3>
