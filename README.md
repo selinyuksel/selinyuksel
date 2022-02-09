@@ -30,6 +30,9 @@ NPCs (Humans or Zombies) in order to make them fall in love before they can atta
 The game consists of seven levels wherein each level represents a new day wit hnew instructions 
 on how the Player must match their targets.
 </li>
+<li>
+This game is being made as a group project of 3 people
+</li>
 </ul>
 
 <h3>MCA's for Game Programming</h3>
@@ -52,7 +55,7 @@ MCA1: https://selinyuksel.itch.io/mca1
 Covey.Town is a social platform that inegrates a 2D game-like metaphor with video chat
 </li>
 <li>
-The project was extended to support on of four different player avatars
+The project was extended as part of a group project to support on of four different player avatars
 </li>
 <li>
 A link to the implementation is no longer available.
@@ -63,7 +66,7 @@ A link to the implementation is no longer available.
 <i>January 2021 - April 2021</i><br>
 <ul>
 <li>
-This project was created for Schneider Electric Go Green 2021
+This project was created for Schneider Electric Go Green 2021 with a partner studying mechanical engineering
 </li>
 <li>
 Intended to integrate a convenient composting system with a corresponding app to make composting in urban settings viable 
@@ -79,7 +82,7 @@ and practical
 <b>SQL, Java, HTML</b><br>
 <ul>
 <li>
-DB Journals is a simple web app for an interactive database of academic articles, journals, authors and editors
+DB Journals is a simple web app for an interactive database of academic articles, journals, authors and editors, created as a group project
 </li>
 <li>
 A link to the implementation is no longer available.
@@ -95,7 +98,7 @@ Spreadsheet is a simple implementation of a spreadsheet which supports basic ope
 multiplication and concatination), changes in number of rows and columns, cell referencing, and saving.
 </li>
 <li>
-The project was extended to become a Workbook containing multiple Spreadhseets that can communicate with each other.
+The project was a group project and was extended to become a Workbook containing multiple Spreadhseets that can communicate with each other.
 </li>
 </ul>
 
