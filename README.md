@@ -45,6 +45,9 @@ MCA's are small projects made for class based on given criteria
 <li>
 MCA1: https://selinyuksel.itch.io/mca1
 </li>
+<li>
+MCA2: https://selinyuksel.itch.io/mca2
+</li>
 </ul>
 
 <h3>Covey.Town</h3>
