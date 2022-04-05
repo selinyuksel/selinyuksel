@@ -13,7 +13,7 @@ Tuiter is a rudimentary implimentation of a social networking platform where
 a user can create an account, edit their profile, send out Tuits and respond to other people's Tuits.
 </li>
 <li>
-Current state of the project: https://elastic-lamport-471dd0.netlify.app/
+Current state of the project: https://elastic-lamport-471dd0.netlify.app/tuiter
 </li>
 </ul>
 
