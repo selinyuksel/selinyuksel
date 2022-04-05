@@ -18,20 +18,23 @@ Current state of the project: https://elastic-lamport-471dd0.netlify.app/
 </ul>
 
 
-<h3>Unnamed Zombie Game</h3>
+<h3>Love and Zombies</h3>
 <i>February 2022 - Present</i><br>
 <b>C#, Unity</b><br>
 <ul>
 <li>
-Unnamed Zombie Game is a FPS/Puzzle game in which the Player (Cupid) matches 
+Love and Zombies is a FPS/Puzzle game in which the Player (Cupid) matches 
 NPCs (Humans or Zombies) in order to make them fall in love before they can attack the Player.
 </li>
 <li>
-The game consists of seven levels wherein each level represents a new day wit hnew instructions 
+The game consists of seven levels wherein each level represents a new day with new instructions 
 on how the Player must match their targets.
 </li>
 <li>
 This game is being made as a group project with Maya Prebish and Janelle Chen
+</li>
+<li>
+  Alpha Release: https://yamsy.itch.io/love-and-zombies-alpha
 </li>
 </ul>
 
