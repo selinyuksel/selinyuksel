@@ -31,7 +31,7 @@ The game consists of seven levels wherein each level represents a new day wit hn
 on how the Player must match their targets.
 </li>
 <li>
-This game is being made as a group project of 3 people
+This game is being made as a group project with Maya Prebish and Janelle Chen
 </li>
 </ul>
 
