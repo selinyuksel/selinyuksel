@@ -19,10 +19,10 @@ Users can search for and view the details of any archery tournament that World A
 Among Lines also has the option to create an Admin account. Admin accounts require an access request in order to be approved. Once approved, Admin accounts have additional privileges.
 </li>
 <li>
-
+UML Diagram: file:///C:/Users/selin/Downloads/Among.Lines.UML.pdf
 </li>
 <li>
-UML Diagram: file:///C:/Users/selin/Downloads/Among.Lines.UML.pdf
+Current state of project:  
 </li>
 </ul>
 
