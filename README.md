@@ -34,7 +34,16 @@ on how the Player must match their targets.
 This game is being made as a group project with Maya Prebish and Janelle Chen
 </li>
 <li>
+  Prototype: https://yamsy.itch.io/love-and-zombies-prototype
+</li>
+<li>
   Alpha Release: https://yamsy.itch.io/love-and-zombies-alpha
+</li>
+<li>
+  Beta Release: https://yamsy.itch.io/love-and-zombies-beta
+</li>
+<li>
+  Gold Master Release: https://yamsy.itch.io/love-and-zombies    
 </li>
 </ul>
 
