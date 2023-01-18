@@ -4,8 +4,30 @@ I'm Selin and here are some projects I've been working on:
 
 <h2>Academic Projects*</h2>
 
+<h3>Among Lines</h3>
+<i>March 2022 - April 2022</i><br>
+<b>HTML, CSS, Javascript</b><br>
+<ul>
+<li>
+Among Lines is an archery website in which users can create accounts to upload their scorecards. User accounts require a unique username and a password, and have a privacy statement that the new user must agree to before creating an account. 
+</li>
+<li>
+Among Lines allows users to connect their scorecards to specific archery tournaments through the World Archery API, or create their own scorecards to track their personal practices. Users can have as many scorecards as they want.
+</li>
+Users can search for and view the details of any archery tournament that World Archery has in their system. They can favorite as many tournaments as they like in order to view them in their favorites section.
+<li>
+Among Lines also has the option to create an Admin account. Admin accounts require an access request in order to be approved. Once approved, Admin accounts have additional privileges.
+</li>
+<li>
+
+</li>
+<li>
+UML Diagram: file:///C:/Users/selin/Downloads/Among.Lines.UML.pdf
+</li>
+</ul>
+
 <h3>Tuiter</h3>
-<i>January 2022 - Present</i><br>
+<i>January 2022 - April 2022</i><br>
 <b>HTML, CSS, Javascript</b><br>
 <ul>
 <li>
@@ -19,7 +41,7 @@ Current state of the project: https://elastic-lamport-471dd0.netlify.app
 
 
 <h3>Love and Zombies</h3>
-<i>February 2022 - Present</i><br>
+<i>February 2022 - April 2022</i><br>
 <b>C#, Unity</b><br>
 <ul>
 <li>
@@ -48,7 +70,7 @@ This game is being made as a group project with Maya Prebish and Janelle Chen
 </ul>
 
 <h3>MCA's for Game Programming</h3>
-<i>February 2022 - Present</i><br>
+<i>February 2022 - March 2022</i><br>
 <b>C#, Unity</b><br>
 <ul>
 <li>
