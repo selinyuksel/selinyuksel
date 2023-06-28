@@ -7,7 +7,6 @@ I'm Selin and here are some projects I've been working on:
 <h3>
   [Supervenience](https://www.figma.com/proto/j8LmaT0at8AeuQQm6buKi8/HCI?node-id=126-1226&starting-point-node-id=126%3A1226&mode=design)
 </h3>
-[Create React App](https://github.com/facebook/create-react-app)
 <i>February 2023 - May 2023</i><br>
 <b>Figma</b><br>
 <ul>
