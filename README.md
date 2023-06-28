@@ -5,8 +5,7 @@ I'm Selin and here are some projects I've been working on:
 <h2>Academic Projects*</h2>
 
 <h3>
-  [Supervenience](https://www.figma.com/proto/j8LmaT0at8AeuQQm6buKi8/HCI?node-id=126-1226&starting-point-node-id=126%3A1226&mode=design)
-  [Supervenience](https://www.figma.com/proto/j8LmaT0at8AeuQQm6buKi8/HCI?node-id=126-1226&starting-point-node-id=126%3A1226&mode=design)
+  Supervenience
 </h3>
 <i>February 2023 - May 2023</i><br>
 <b>Figma</b><br>
