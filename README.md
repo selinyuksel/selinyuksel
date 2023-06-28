@@ -4,6 +4,19 @@ I'm Selin and here are some projects I've been working on:
 
 <h2>Academic Projects*</h2>
 
+<h3>[Superenience](https://www.figma.com/proto/j8LmaT0at8AeuQQm6buKi8/HCI?node-id=126-1226&starting-point-node-id=126%3A1226&mode=design)</h3>
+<i>February 2023 - May 2023</i><br>
+<b>Figma</b><br>
+<ul>
+<li>
+Worked in a group to design a website to streamline the job application process for new graduates and individuals with little work experience
+<li>
+Created low, medium and high fidelity prototypes, using the iterative design process, focused on three main user tasks    
+</li>
+<li>
+Built a final prototype using Figma, based on results of user testing and heuristic evaluations
+</li>
+
 <h3>Among Lines</h3>
 <i>March 2022 - April 2022</i><br>
 <b>HTML, CSS, Javascript</b><br>
