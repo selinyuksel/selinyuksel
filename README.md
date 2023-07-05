@@ -15,10 +15,7 @@ I'm Selin and here are some projects I've been working on:
     Created low, medium and high fidelity prototypes, using the iterative design process, focused on three main user tasks  
   </li>
   <li>
-   Built a final prototype using Figma, based on results of user testing and heuristic evaluations
-  </li>
-  <li>
-    View the final prototype [here](https://www.figma.com/proto/j8LmaT0at8AeuQQm6buKi8/HCI?node-id=126-1226&starting-point-node-id=126%3A1226&mode=design)
+   Built a [final prototype](https://www.figma.com/proto/j8LmaT0at8AeuQQm6buKi8/HCI?node-id=126-1226&starting-point-node-id=126%3A1226&mode=design) using Figma, based on results of user testing and heuristic evaluations
   </li>
 </ul>
 
