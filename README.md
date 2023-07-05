@@ -1,6 +1,6 @@
 <h1>Welcome!</h1>
 
-I'm Selin and here are some projects I've been working on:
+I'm Selin (she/her), a Computer Science/Theater major with an interest in human computer interaction. Here are some projects I've worked on:
 
 <h2>Projects</h2>
 
@@ -61,7 +61,7 @@ Among Lines also has the option to create an Admin account. Admin accounts requi
 UML Diagram: https://github.com/dantan2000/web-dev-archery-app/files/8594526/Among.Lines.UML.pdf
 </li>
 <li>
-Current state of project:  
+Repo: https://github.com/dantan2000/web-dev-archery-app
 </li>
 </ul>
 
@@ -183,6 +183,4 @@ multiplication and concatination), changes in number of rows and columns, cell r
 The project was a group project and was extended to become a Workbook containing multiple Spreadhseets that can communicate with each other.
 </li>
 </ul>
-
-<h2>Personal Projects</h2>
 
