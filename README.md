@@ -15,7 +15,28 @@ I'm Selin and here are some projects I've been working on:
     Created low, medium and high fidelity prototypes, using the iterative design process, focused on three main user tasks  
   </li>
   <li>
-   Built a [final prototype](https://www.figma.com/proto/j8LmaT0at8AeuQQm6buKi8/HCI?node-id=126-1226&starting-point-node-id=126%3A1226&mode=design) using Figma, based on results of user testing and heuristic evaluations
+   Built a final prortype using Figma, based on results of user testing and heuristic evaluations
+  </li>
+  <li>
+    Final prototype: https://www.figma.com/proto/j8LmaT0at8AeuQQm6buKi8/HCI?node-id=126-1226&starting-point-node-id=126%3A1226&mode=design
+  </li>
+</ul>
+
+<h3>Data Visualization Application</h3>
+<i>October 2022 - December 2022</i><br>
+<b>C#, Unity</b><br>
+<ul>
+  <li>
+    Designed a VR application to read csv files and visualize them in a 3D environment
+  </li>
+  <li>
+    Created metaphors for creating, viewing, editing, deleting and saving files in the application
+  </li>
+  <li>
+    Developed a prototype of the application on Unity using the Oculus Integration Package
+  </li>
+  <li>
+    Planned modifications to the application to allow its use in VR accessibility research
   </li>
 </ul>
 
@@ -162,8 +183,6 @@ multiplication and concatination), changes in number of rows and columns, cell r
 The project was a group project and was extended to become a Workbook containing multiple Spreadhseets that can communicate with each other.
 </li>
 </ul>
-
-<i>*The repositories and code for academic projects can't be shared publicly</i>
 
 <h2>Personal Projects</h2>
 
